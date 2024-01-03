@@ -19,7 +19,7 @@ Contributions are welcome! If you're interested in improving Furiganizer, please
 This project is licensed under the [Mozilla Public License 2.0](LICENSE).
 
 ## Acknowledgements
-A special thanks to [Kuromoji.js](https://github.com/takuyaa/kuromoji.js) and other open-source tools that make this project possible.
+A special thanks to [Kuromoji.js](https://github.com/takuyaa/kuromoji.js), [Vue Chrome Extension Template](https://github.com/Kocal/vue-web-extension), and other open-source tools that make this project possible.
 
 ## Disclaimer
 This extension is a personal project and is not affiliated with any company or educational institution.
